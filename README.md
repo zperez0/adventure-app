@@ -13,6 +13,12 @@
 _A React application that will allow users to create, read, update, and delete  lists in order to keep track of their equipment, meals, and locations of trails and campgrounds._
 ___
 
+## Research & Planning Log
+* 3:00 - 4:00pm Research the differences between React & React Native.
+<br/>
+(watch youtube videos, read docs, and articles)
+___
+
 ## Setup/Installation Requirements
 
 * _Go to [GitHub](https://github.com/zperez0/adventure-app.git)_

@@ -14,10 +14,13 @@ _A React application that will allow users to create, read, update, and delete  
 ___
 
 ## Research & Planning Log
-* 3:00 - 4:00pm Research the differences between React & React Native.
+* 3:00 - 4:00pm Research the differences between React & React Native
 <br/>
 (watch youtube videos, read docs, and articles)
-* 4:00 - 5:00pm Build out a to-do app in React
+* 4:00 - 5:00pm Build to-do app in React
+* 5:00 - 6:00pm Research how to build a React Native app
+<br/>
+(watch youtube videos & read docs)
 ___
 
 ## Setup/Installation Requirements

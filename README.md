@@ -17,6 +17,7 @@ ___
 * 3:00 - 4:00pm Research the differences between React & React Native.
 <br/>
 (watch youtube videos, read docs, and articles)
+* 4:00 - 5:00pm Build out a to-do app in React
 ___
 
 ## Setup/Installation Requirements
